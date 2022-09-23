@@ -23,7 +23,7 @@ Many benefits of having an edu mail like Spotify 50% off Apple music 50% off Dis
 Extract the RAR files.
 
 https://i.imgur.com/PLyfZdT.png
-<img src="https://i.imgur.com/PLyfZdT.png" alt="rarfile">
+[<img src='https://i.imgur.com/PLyfZdT.png' alt='rarfile'>]
 
 Open the folder and double click the setup.py file (Important)
 
